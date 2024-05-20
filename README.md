@@ -1,3 +1,7 @@
+============================================================
+# Entregando o desafio da DIO conforme as instruções abaixo:
+============================================================
+
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
@@ -23,29 +27,18 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Criei um Avatar para apresentar o meu Canal no YouTube usando uma Inteligência Artificial, pois eu não queria aparecer no vídeo.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Apesar de conhecer outras (IA's) eu acabei usando a (Vidnoz AI), pois ela atendeu a minha necessidade naquele momento. 
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Para criar meu Avatar, eu abri o site do programa Vidnoz AI usando esse endereço https://aiapp-pt.vidnoz.com/.
+Ao abrir a página principal eu criei o meu Login usando a minha conta do Google, mas se você quiser pode usar o seu e-mail e criar uma senha.
+O programa é muito fácil de usar, todo intuitivo, você tem Modelos prontos que podem ser modificados, você cria o seu Avatar com sua foto ou usando modelos, Clona a sua Voz ou escolhe outra voz para usar, não tem segredo nenhum.
+Para se ter uma ideia de como é fácil usar essa IA, veja esse vídeo no YouTube mostrando como usar, https://www.youtube.com/watch?v=DfRg0kn7HEQ
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Veja o resultado do meu projeto nesse vídeo, para a apresentação do meu Canal no YouTube: https://www.youtube.com/watch?v=pXQmxLuphEU
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
